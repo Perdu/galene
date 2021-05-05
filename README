@@ -1,6 +1,6 @@
 # Fork notes
 
-This fork of galene provides an example config file to setup nginx as a reverse proxy. See example_config/nginx_reverse_proxy.conf.nginx_reverse_proxy.conf
+This fork of galene provides an example config file to setup nginx as a reverse proxy. See example_config/nginx_reverse_proxy.conf.
 
 # Installation
 
